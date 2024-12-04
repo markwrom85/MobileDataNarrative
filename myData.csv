@@ -1,10 +1,10 @@
-title,platform,yearReleased,currentAvgPrice,condition,played
-Halo 2,Xbox,2004,15.18,CIB,No
-Guilty Gear X2 Reload,Xbox,2004,9.63,No Manual,Yes
-Sega GT & JSRF,Xbox,2002,9.99,CIB,Yes
-Beautiful Katamari,Xbox 360,2007,19.97,CIB,No
-Halo 3,Xbox 360,2007,8,CIB,No
-Portal 2 [Platinum Hits],Xbox 360,2011,7.00,CIB,Yes
+title,platform,yearReleased,currentAvgPrice,condition,played,heatMap
+Halo 2,Xbox,2004,15.18,CIB,No,7
+Guilty Gear X2 Reload,Xbox,2004,9.63,No Manual,Yes,7
+Sega GT & JSRF,Xbox,2002,9.99,CIB,Yes,7
+Beautiful Katamari,Xbox 360,2007,19.97,CIB,No,7
+Halo 3,Xbox 360,2007,8,CIB,No,4
+Portal 2 [Platinum Hits],Xbox 360,2011,7.00,CIB,Yes,4
 Ty the Tasmanian Tiger 3: Night of the Quinkan,Gamecube,2005,23.29,No Manual,No
 Club Penguin: Gameday,Wii,2010,7.21,CIB,Yes
 Donkey Kong Country Returns,Wii,2010,12.95,CIB,Yes
@@ -175,11 +175,11 @@ Persona 5 [Playstation Hits],PS4,2016,8.87,CIB,Yes
 Tom Clancy's Rainbow Six: Siege [Advanced Edition],PS4,2018,14.83,CIB,Yes
 Horizon: Zero Dawn,PS4,2017,9.00,CIB,Yes
 Rise of the Tomb Raider,PS4,2016,12.09,Loose,Yes
-Metal Gear Solid 2: Substance,Xbox,2002,8.00,No Manual,No
-Shenmue II,Xbox,2002,10.49,CIB,No
-Fable,Xbox,2004,7.09,No Manual,No
-Tom Clancy's Splinter Cell,Xbox,2002,8.11,CIB,No
-Borderlands 2,Xbox 360,2012,3.96,Loose,Yes
+Metal Gear Solid 2: Substance,Xbox,2002,8.00,No Manual,No,7
+Shenmue II,Xbox,2002,10.49,CIB,No,7
+Fable,Xbox,2004,7.09,No Manual,No,7
+Tom Clancy's Splinter Cell,Xbox,2002,8.11,CIB,No,7
+Borderlands 2,Xbox 360,2012,3.96,Loose,Yes,4
 Kim Possible Global Gemini,DS,2007,14.22,CIB,No
 Thinksmart: Kids 8+,DS,2010,6.33,CIB,No
 Kung Fu Panda,DS,2008,7.72,CIB,No
